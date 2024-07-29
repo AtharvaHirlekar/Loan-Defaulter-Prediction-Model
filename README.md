@@ -1,1 +1,2 @@
+**Project Description:**
 This project is about building a model that can predict if someone is likely to default on their payments. We use financial and personal information to make these predictions. The model looks at different factors like the type of customer, their income, how much debt they have, and other important details. This helps banks and financial institutions decide who might be a risky borrower.
